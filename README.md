@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6D0C&center=true&vCenter=true&width=600&lines=Frontend+%26+Mobile+Developer;%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B0%80+%EC%8B%A4%EC%A0%9C%EB%A1%9C+%EC%93%B0%EB%8A%94+%ED%99%94%EB%A9%B4%EC%9D%84+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;UI%2FUX%EB%A5%BC+%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90" alt="typing" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C47,100:CC570A&height=220&section=header&text=butter-81&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%C2%B7%20Mobile%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="header" />
 
-# 👋 안녕하세요!
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6D0C&center=true&vCenter=true&width=600&lines=%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B0%80+%EC%8B%A4%EC%A0%9C%EB%A1%9C+%EC%93%B0%EB%8A%94+%ED%99%94%EB%A9%B4%EC%9D%84+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;UI%2FUX%EB%A5%BC+%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;React+%C2%B7+React+Native+%C2%B7+TypeScript" alt="typing" />
 
 <p>
 <img src="https://img.shields.io/badge/Frontend-FF6D0C?style=for-the-badge" />
@@ -55,25 +55,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://butter-81-github-readme-stats.vercel.app/api?username=butter-81&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=FF6D0C&title_color=FF6D0C" />
-<img height="165" src="https://butter-81-github-readme-stats.vercel.app/api/top-langs/?username=butter-81&layout=compact&langs_count=8&count_private=true&exclude_repo=codingAppleYT,CodingApple_Nodejs&hide=ejs&hide_border=true&theme=tokyonight&title_color=FF6D0C" />
-
-<br/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=butter-81&hide_border=true&theme=tokyonight&ring=FF6D0C&fire=FF6D0C&currStreakLabel=FF6D0C" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=butter-81&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+<img height="170" src="https://butter-81-github-readme-stats.vercel.app/api?username=butter-81&count_private=true&include_all_commits=true&show_icons=true&hide=stars,issues,contribs&hide_rank=true&custom_title=%F0%9F%94%A5%20Dev%20Activity&hide_border=true&theme=tokyonight&icon_color=FF6D0C&title_color=FF6D0C" alt="stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=butter-81&hide_border=true&theme=tokyonight&ring=FF6D0C&fire=FF6D0C&currStreakLabel=FF6D0C" alt="streak" />
 
 </div>
 
 ---
 
-<div align="center">
-<sub>🧈 Built with React, served with care.</sub>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CC570A,100:FF8C47&height=120&section=footer" alt="footer" />
